@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hellapythonic/hellapythonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 -->
 #### in the immortal words of Obi-wan Kenobi ###
 # Hello there! #
+
+I'm Brent, a 40-something who went back to school at City College of San Francisco for CS in 2020 and realized his passion lies in tutoring and teaching coding to others. I hope to transfer to SF State University after another... um... 5 years? I have a lot of classes to take!
+
+I am allergic to math. I break out in *<span style="color: green;">EEEEEEEEEEE</span>*
